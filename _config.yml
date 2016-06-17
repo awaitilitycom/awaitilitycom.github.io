@@ -1,0 +1,40 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "Awaitility"
+keywords:    "awaitility, java, dsl, library, testing, async, waiting, asynchronous"
+description: "Awaitility Website"
+source_link: "https://github.com/awaitility/awaitility"
+favicon:     "favicon.png"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+google_analytics_key: "UA-17489061-3"
+name-image: "img/awaitility-with-logo-transparent.png"
+logo: "img/logo-transparent-smaller.png"
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  red:       '#a2070f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  dark:      '#acacac'
+  light:     '#d2d2d2'
+  
