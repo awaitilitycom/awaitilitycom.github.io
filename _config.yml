@@ -21,7 +21,6 @@ description: "Awaitility Website"
 source_link: "https://github.com/awaitility/awaitility"
 favicon:     "favicon.png"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: "G-LCGQMV1XDB"
 name-image: "img/awaitility-with-logo-transparent.png"
 logo: "img/logo-transparent-smaller.png"
 
